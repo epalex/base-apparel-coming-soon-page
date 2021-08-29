@@ -12,8 +12,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL:
+- Live Site URL:
 
 ## Built with
 
@@ -26,6 +26,10 @@ Users should be able to:
 
 - Frontend Mentor - [@epalex](https://www.frontendmentor.io/profile/epalex)
 
+## Useful links
+
+- https://css-tricks.com/full-width-containers-limited-width-parents/
+
 ## Open issues
 
-- 
+- check the trick with the logo photo

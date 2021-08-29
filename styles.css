@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.logo {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.hero {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.logo-for-desktop {
+  display: none;
+}
+
+.main {
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+h1 {
+  color: #423a3a;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: 10.8px;
+  text-align: center;
+}
+
+.we {
+  color: #ce9898;
+  font-weight: 300;
+}
+
+.shoppers {
+  margin-top: 16px;
+  color: #ce9898;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  margin-bottom: 32px;
+  width: 90%;
+}
+
+a {
+  text-decoration: none;
+  color: tomato;
+}
+
+.paminos {
+  color: tomato;
+  font-weight: 600;
+}
+
+footer {
+  font-size: 13px;
+  text-align: center;
+  font-weight: 500;
+  color: darkgrey;
+  margin-bottom: 20px;
+}

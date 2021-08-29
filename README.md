@@ -12,8 +12,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/epalex/base-apparel-coming-soon-page
+- Live Site URL: https://epalex.github.io/base-apparel-coming-soon-page/
 
 ## Built with
 
